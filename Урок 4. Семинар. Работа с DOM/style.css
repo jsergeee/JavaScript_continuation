@@ -1,0 +1,21 @@
+body {
+    background-image: url(https://img.freepik.com/free-photo/paper-texture_1154-607.jpg?t=st=1743778762~exp=1743782362~hmac=1790f20fa1aaeb4d2ac0bd93f521685dcde584ba6f7b221da0ccae23e913f841&w=996);
+    background-size: cover;
+}
+
+.item1 {
+    color: blue;
+    border: solid 1px black;
+    padding: 16px;
+}
+
+.error {
+    color: red;
+    /* Цвет текста ошибки */
+    margin-top: 10px;
+    /* Отступ сверху */
+}
+
+.input-error {
+    border: 2px solid red;}
+    /* Красная рамка для поля ввода */
